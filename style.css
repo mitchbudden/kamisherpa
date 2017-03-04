@@ -1,0 +1,141 @@
+  
+.navbar {
+    background-color: #f2f2f2;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    height-max: 5em;
+    margin-bottom: 0;
+  }
+
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+  
+#heading {
+    color: black;
+    font-size: 30px;
+    padding-left: 1em;
+    font-family: 'Libre Baskerville', serif;  
+}
+  
+.anchors {
+    font-size: 20px;
+    padding: 1em;
+    font-family: 'Quicksand', sans-serif;
+    pull: right;
+    max-width: 100%;
+    vertical-align: top;
+  }
+
+.bio {
+   background: url("http://www.placestoseeinyourlifetime.com/wp-content/uploads/2015/11/Gokyo-Photo-by-Birukov-Yury-740x490.jpg") no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   font-family: 'Josefin Sans', sans-serif;
+   padding-top: 5em;
+   height: 35em;
+  }
+  
+#desc {
+    font-size: 100px;
+    padding-top: 0.5em;
+    text-align: center;
+    color: white;
+    text-shadow: 4px 4px black;
+    font-family: 'Dancing Script', cursive;
+
+  }
+
+#subhead {
+  font-size: 75px;
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px black;
+  font-family: 'Dancing Script', cursive;
+
+}
+  
+#pic1 {
+    width: 15em;
+    height: 15em;
+    border: 1px solid black;
+    border-radius: 300px;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-top: 5em;
+ 
+  }
+  
+.aboutus {
+    background-color: white;
+    height: 35em;
+    color: black;
+  }
+
+#aboutTrips {
+  text-align: Center;
+  font-size: 25px;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 1.5em;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#pictureOne {
+  padding-top: 1.5em;
+  width: 30em;
+  height: 25em;
+
+}
+  
+#aboutHeader {
+    text-align: center;
+    color: black;
+    padding-top: 1em;
+    font-family: 'Libre Baskerville', serif;  
+  }
+  
+.contact {
+    background-color: white;
+    height: 30em;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    padding-top: ;
+  }
+  
+#cme {
+    text-align: center;
+    color: black;
+    padding-top: 1em;
+    font-family: 'Libre Baskerville', serif;  
+  }
+
+  #intouch {
+    color: black;
+    padding-top: 1em;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif; 
+  }
+  
+
+#email, #emailTwo, #phone, #facebook {
+  font-size: 20px;
+  font-family: 'Libre Baskerville', serif; 
+  text-align: center;
+  padding-top: 0.5em;
+}
+  
+  .about {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;  
+
+  }
+  
